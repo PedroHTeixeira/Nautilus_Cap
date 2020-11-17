@@ -4,5 +4,8 @@ This project is made from a group of assignments created during Nautilus Selecti
 # Instructions #
 To use the files of the project you will need
 
-* A Computer 
-* A Python Interpreter
+* Computer 
+* Python Interpreter
+* Internet Connection
+* Web Browser
+
