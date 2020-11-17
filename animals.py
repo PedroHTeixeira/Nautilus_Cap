@@ -1,9 +1,9 @@
 # PYTHON OO 17/11/2020 17:00 Part-1
 class Animal:
-    def __init__(self,a,b):
+    def __init__(self,a,b): #Constructor
         self.name=a
         self.species=b
-    def __repr__(self):
+    def __repr__(self): #Representation
         return f"This animal is a {self.species}, which is named {self.name}"
 
 class Cat(Animal):
