@@ -6,8 +6,6 @@ while l[-1] <4*10**6:
     l.append(l[i-2]+ l[i-1])
     i=i+1
 
-
-
 for j in l:
     if j % 2 == 0 :
         s = s +j
