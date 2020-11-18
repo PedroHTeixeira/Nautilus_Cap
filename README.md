@@ -23,4 +23,9 @@ To use the files of the project you will need
 </p>
 
 3. ROS
-    * 
+    * talker.py : First Example from ROS Class
+    * listener.py : Second Example from ROS Class
+    * talker-my.py : First Deliverable for ROS Class
+    * listener-my.py : Second Deliverable from ROS Class
+    * listener-chalenge.py : Not Available Yet
+</p>
