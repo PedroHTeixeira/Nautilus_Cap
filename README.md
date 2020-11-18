@@ -20,6 +20,7 @@ To use the files of the project you will need
     * animals.py : First Example from Python OO Class
     * cities.py : Second Example from Python OO Class
     * brasileirao.py : Deliverable 1
+    * signal.py : Chalenge 
 </p>
 
 3. ROS - Basic
@@ -29,3 +30,7 @@ To use the files of the project you will need
     * listener-my.py : Second Deliverable for ROS - Basic Class
     * listener-talker-chalenge.py : Chalenge for ROS - Basic Class
 </p>
+
+4. ROS - Especial Topics
+    * parameters.py : First Example from ROS - Especial Topics Class
+    * broadcaster.py : Second Example from ROS - Especial Topics Class
