@@ -6,7 +6,7 @@ class City:
         self.name=name
 
     def __repr__(self): 
-        r = "The city {} have {} people".format(self.name,self.population)
+        r = "The city {} has {} people".format(self.name,self.population)
         return r
     
     def __add__(self, other): # Sum
