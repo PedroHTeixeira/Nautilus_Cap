@@ -27,5 +27,5 @@ To use the files of the project you will need
     * listener.py : Second Example from ROS - Basic Class
     * talker-my.py : First Deliverable for ROS - Basic Class
     * listener-my.py : Second Deliverable for ROS - Basic Class
-    * listener-chalenge.py : Chalenge for ROS - Basic Class
+    * listener-talker-chalenge.py : Chalenge for ROS - Basic Class
 </p>
