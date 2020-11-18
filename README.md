@@ -9,3 +9,15 @@ To use the files of the project you will need
 * Internet Connection
 * Web Browser
 
+# Classes #
+
+1. GIT
+    * mult.py : First Euler Problem
+    * even_fibonacci.py : Second Euler Problem
+
+2. Python OO
+    * animals.py : First Example from Python OO Class
+    * cities.py : Second Example from Python OO Class
+    * brasileirao.py : Deliverable 1
+
+3. ROS
