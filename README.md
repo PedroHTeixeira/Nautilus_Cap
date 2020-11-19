@@ -19,8 +19,8 @@ To use the files of the project you will need
 2. Python OO
     * animals.py : First Example from Python OO Class
     * cities.py : Second Example from Python OO Class
-    * brasileirao.py : Deliverable 1
-    * signal.py : Chalenge 
+    * brasileirao.py : Deliverable 1 for Python OO Class
+    * signal.py : Chalenge for Python OO Class
 </p>
 
 3. ROS - Basic
