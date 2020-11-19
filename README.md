@@ -34,3 +34,6 @@ To use the files of the project you will need
 4. ROS - Especial Topics
     * parameters.py : First Example from ROS - Especial Topics Class
     * broadcaster.py : Second Example from ROS - Especial Topics Class
+    * solarsystem.py : Deliverable for ROS - Especial Topics
+    * solar-system.launch : Launch file for solarsystem.py
+    * params.yaml : Parameters for solarsystem.py
