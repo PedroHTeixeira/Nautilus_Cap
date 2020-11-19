@@ -37,3 +37,6 @@ To use the files of the project you will need
     * solarsystem.py : Deliverable for ROS - Especial Topics
     * solar-system.launch : Launch file for solarsystem.py
     * params.yaml : Parameters for solarsystem.py
+
+5. GAZEBO
+    * armNew9 : Claw object in Gazebo - Not Finished
