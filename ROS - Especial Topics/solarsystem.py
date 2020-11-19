@@ -43,8 +43,9 @@ Jupiter_Radius = rospy.get_param("Jupiter_Radius")
 Saturn_Radius = rospy.get_param("Saturn_Radius")
 Uranus_Radius = rospy.get_param("Uranus_Radius")
 Neptune_Radius = rospy.get_param("Neptune_Radius")
+Europa_Radius = rospy.get_param("Europa_Radius")
 
-planets=[ Planets("Earth",Earth_Radius),Planets("Titan",Titan_Radius,"Saturn"), Planets("Venus",Venus_Radius), Planets("Mercury",Mercury_Radius), Planets("Mars",Mars_Radius),Planets("Jupiter",Jupiter_Radius), Planets("Saturn",Saturn_Radius), Planets("Uranus",Uranus_Radius), Planets("Neptune",Neptune_Radius)]
+planets=[ Planets("Earth",Earth_Radius),Planets("Titan",Titan_Radius,"Saturn"), Planets("Venus",Venus_Radius), Planets("Mercury",Mercury_Radius), Planets("Mars",Mars_Radius),Planets("Jupiter",Jupiter_Radius), Planets("Saturn",Saturn_Radius), Planets("Uranus",Uranus_Radius), Planets("Neptune",Neptune_Radius),Planets("Europa",Europa_Radius,"Jupiter")]
 
 while not rospy.is_shutdown():
     for i in planets:
