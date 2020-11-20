@@ -39,4 +39,4 @@ To use the files of the project you will need
     * params.yaml : Parameters for solarsystem.py
 
 5. GAZEBO
-    * armNew9 : Claw object in Gazebo - Not Finished
+    * Claw : Claw object in Gazebo - Not Finished
