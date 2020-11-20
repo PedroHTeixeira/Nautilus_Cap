@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
-  <model name='armNew9'>
+  <model name='armNew12'>
     <link name='link_3'>
       <inertial>
         <mass>1</mass>
@@ -463,7 +463,7 @@
     </link>
     <link name='link_8'>
       <inertial>
-        <mass>10</mass>
+        <mass>1</mass>
         <inertia>
           <ixx>0.166667</ixx>
           <ixy>0</ixy>
@@ -478,7 +478,7 @@
       <self_collide>0</self_collide>
       <enable_wind>0</enable_wind>
       <kinematic>0</kinematic>
-      <gravity>1</gravity>
+      <gravity>0</gravity>
       <visual name='visual'>
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
@@ -562,22 +562,22 @@
       </collision>
     </link>
     <joint name='Atuador com base' type='prismatic'>
-      <parent>link_5</parent>
-      <child>link_8</child>
+      <parent>link_8</parent>
+      <child>link_5</child>
       <pose frame=''>0 0 0 0 -0 0</pose>
       <axis>
         <xyz>0 0 1</xyz>
         <use_parent_model_frame>0</use_parent_model_frame>
         <limit>
-          <lower>-0.025</lower>
-          <upper>0.025</upper>
-          <effort>-1</effort>
+          <lower>-0.02</lower>
+          <upper>5</upper>
+          <effort>-1.5</effort>
           <velocity>-1.3</velocity>
         </limit>
         <dynamics>
           <spring_reference>0</spring_reference>
           <spring_stiffness>0</spring_stiffness>
-          <damping>0</damping>
+          <damping>0.1</damping>
           <friction>0</friction>
         </dynamics>
       </axis>
@@ -793,6 +793,6 @@
       </physics>
     </joint>
     <static>0</static>
-    <allow_auto_disable>1</allow_auto_disable>
+    <allow_auto_disable>0</allow_auto_disable>
   </model>
 </sdf>
