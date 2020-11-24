@@ -48,3 +48,8 @@ To use the files of the project you will need
 7. ARDUINO
     * Deliverable.ino : Project of a RC-Car software
 
+8. SENSORS
+    * Sensors.pdf : Sensor Proposal
+
+
+
