@@ -40,3 +40,10 @@ To use the files of the project you will need
 
 5. GAZEBO
     * Claw : Claw object in Gazebo
+
+6. CONTROL
+    * There were no assignments in this class
+
+7. ARDUINO
+    * Deliverable.ino : Project of a RC-Car software
+
