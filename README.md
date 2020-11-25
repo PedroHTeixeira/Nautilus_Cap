@@ -41,15 +41,20 @@ To use the files of the project you will need
 
 5. GAZEBO
     * Claw : Claw object in Gazebo
+</p>
 
 6. CONTROL
     * There were no assignments in this class
+</p>
 
 7. ARDUINO
     * Deliverable.ino : Project of a RC-Car software
+</p>
 
 8. SENSORS
     * Sensors.pdf : Sensor Proposal
+</p>
 
-
-
+9.Vision
+    * Nemo.py : Not Finished
+</p>
