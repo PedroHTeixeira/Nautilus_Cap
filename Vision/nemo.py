@@ -28,7 +28,7 @@ while nemo.isOpened(): #Loop through frames while the video is opened
     result = cv2.bitwise_and(frame, frame, mask=result_mask)
 
     
-    cv2.imshow('Nemo Video',frame)#display the video
+    cv2.imshow('Nemo Video',result)#display the video
     
 
     if cv2.waitKey(1) == ord('q'): #If the key q is pressed, the loop should break
