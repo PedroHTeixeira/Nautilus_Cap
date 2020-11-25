@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../ROS/src/beginner_tutorials/scripts"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ROS/src/beginner_tutorials/launch"
+		}
+	],
+	"settings": {}
+}
